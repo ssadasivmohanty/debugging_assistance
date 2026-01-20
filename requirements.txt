@@ -1,0 +1,23 @@
+# Google Generative AI SDK
+google-generativeai==0.7.2
+
+# Web Frameworks
+strimlit==1.41.0
+gradio==4.16.0
+
+# Environment Variable Management
+python-dotenv==1.0.1
+pydantic==2.9.0
+
+# HTTP Client Library
+httpx==0.27.2
+
+# Data Processing Libraries
+pandas==2.2.3
+
+# Web Scraping Libraries
+beautifulsoup4==4.12.3
+requests==2.32.3
+
+# YAML Parsing Library
+pyyaml==6.0.2
