@@ -154,3 +154,9 @@ This project is part of DSA GenAI LearnYard.
 ## Support
 
 For issues, questions, or suggestions, please check the project structure and ensure all dependencies are properly installed.
+
+## Demo
+<img width="1872" height="952" alt="image" src="https://github.com/user-attachments/assets/304965ff-bdd1-4512-bcba-3a60c8509cad" />
+
+
+
